@@ -1,0 +1,7 @@
+EAM Dash Requirements
+
+Dash
+Pandas
+Plotly
+numpy
+gunicorn 
