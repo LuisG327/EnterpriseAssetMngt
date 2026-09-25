@@ -171,7 +171,7 @@ def cost_chart(_):
     fig.update_layout(title='Planned vs Actual Maintenance Cost by Month',
                       plot_bgcolor='white', paper_bgcolor='white', barmode='group')
     return fig
-
+server = app.server
 if __name__ == '__main__':
     app.run(debug=True)
 
